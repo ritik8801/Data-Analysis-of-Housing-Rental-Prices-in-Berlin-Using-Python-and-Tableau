@@ -37,7 +37,7 @@ The following Python libraries were used:
 
 1. Sourcing Open Data
 
-●	Used Open Source Airbnb Berlin data.
+* Used Open Source Airbnb Berlin data.
 ●	Completed preparatory steps before moving on to analysis (e.g., cleaning).
 ●	Based on a comprehension of the contents of the data, defined questions.
 
