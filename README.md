@@ -57,7 +57,7 @@ The code for the analysis can be found here: ["Exploring Relationships"](https:/
 ●	Wrangled, cleaned, and merged data files for preparation of analysis.
 ●	Conducted a geospatial analysis by creating a choropleth map using relevant Python libraries.
 
-The code for the analysis can be found here: [Geographical Visualizations with Python"](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Geographical%20Visualizations.ipynb).
+The code for the analysis can be found here: ["Geographical Visualizations with Python"](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Geographical%20Visualizations.ipynb).
 
 Results from the Geographical Visualizations Analysis can be found here: ["Analysis"](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/tree/main/Analysis).
 
