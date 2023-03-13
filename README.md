@@ -38,8 +38,8 @@ The following Python libraries were used:
 1. Sourcing Open Data
 
 * Used Open Source Airbnb Berlin data.
-●	Completed preparatory steps before moving on to analysis (e.g., cleaning).
-●	Based on a comprehension of the contents of the data, defined questions.
+* Completed preparatory steps before moving on to analysis (e.g., cleaning).
+* Based on a comprehension of the contents of the data, defined questions.
 
 The code for the analysis can be found here: [Sourcing Open Data](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Sourcing%20Open%20Data.ipynb).
 
