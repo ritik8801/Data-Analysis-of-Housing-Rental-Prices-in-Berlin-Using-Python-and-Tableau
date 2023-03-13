@@ -1,5 +1,5 @@
 # Data Analysis of Rental Prices in Berlin Using Python and Tableau
-Data analysis of AirBnB Rental Data available for Berlin, Germany using Python and Tableau. 
+Data Analysis of AirBnB Rental Data available for Berlin, Germany using Python and Tableau. 
 
 # Objective 
 
@@ -41,7 +41,7 @@ The following Python libraries were used:
 ●	Completed preparatory steps before moving on to analysis (e.g., cleaning).
 ●	Based on a comprehension of the contents of the data, defined questions.
 
-The code for the analysis can be found here: ["Sourcing Open Data"](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Sourcing%20Open%20Data.ipynb).
+The code for the analysis can be found here: [Sourcing Open Data](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Sourcing%20Open%20Data.ipynb).
 
 2. Exploring Relationships
 
@@ -49,7 +49,7 @@ The code for the analysis can be found here: ["Sourcing Open Data"](https://gith
 ●	Used the questions, defined in the previous task to guide the data exploration.
 ●	Defined possible hypothesis to test.
 
-The code for the analysis can be found here: ["Exploring Relationships"](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Exploring%20Relationships.ipynb).
+The code for the analysis can be found here: [Exploring Relationships](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Exploring%20Relationships.ipynb).
 
 3. Geographical Visualizations with Python
 
@@ -57,9 +57,9 @@ The code for the analysis can be found here: ["Exploring Relationships"](https:/
 ●	Wrangled, cleaned, and merged data files for preparation of analysis.
 ●	Conducted a geospatial analysis by creating a choropleth map using relevant Python libraries.
 
-The code for the analysis can be found here: ["Geographical Visualizations with Python"](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Geographical%20Visualizations.ipynb).
+The code for the analysis can be found here: [Geographical Visualizations with Python](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/blob/main/Project%20Code/Geographical%20Visualizations.ipynb).
 
-Results from the Geographical Visualizations Analysis can be found here: ["Analysis"](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/tree/main/Analysis).
+Results from the Geographical Visualizations Analysis can be found here: [Analysis](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/tree/main/Analysis).
 
 # Tableau Dashboard
-[Data Analysis of Rental Prices in Berlin] (https://public.tableau.com/app/profile/ritik.mishra/viz/DataAnalysisofRentalPricesinBerlin/AirBnBBerlin?publish=yes)
+[Data Analysis of Rental Prices in Berlin](https://public.tableau.com/app/profile/ritik.mishra/viz/DataAnalysisofRentalPricesinBerlin/AirBnBBerlin?publish=yes)
