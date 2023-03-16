@@ -58,4 +58,4 @@ The following Python libraries were used:
 * Results from the Geographical Visualizations Analysis can be found here: [Analysis](https://github.com/ritik8801/Data-Analysis-of-Rental-Prices-in-Berlin-Using-Python-and-Tableau/tree/main/Analysis).
 
 # Tableau Dashboard
-[Data Analysis of Rental Prices in Berlin](https://public.tableau.com/app/profile/ritik.mishra/viz/DataAnalysisofRentalPricesinBerlin/AirBnBBerlin?publish=yes)
+[Data Analysis of Housing Rental Prices in Berlin](https://public.tableau.com/app/profile/ritik.mishra/viz/DataAnalysisofRentalPricesinBerlin/AirBnBBerlin?publish=yes)
