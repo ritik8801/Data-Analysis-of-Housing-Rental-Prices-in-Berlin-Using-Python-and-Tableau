@@ -1,4 +1,4 @@
-# Data Analysis of Rental Prices in Berlin Using Python and Tableau
+# Data Analysis of Housing Rental Prices in Berlin Using Python and Tableau
 Data Analysis of AirBnB Rental Data available for Berlin, Germany using Python and Tableau. 
 
 # Objective 
